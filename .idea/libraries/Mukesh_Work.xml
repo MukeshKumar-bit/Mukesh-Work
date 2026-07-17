@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Mukesh Work">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/springboot-kafka-course-main.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Test Spring Boot.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

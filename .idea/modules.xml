@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java8Programing/Java8Programing.iml" filepath="$PROJECT_DIR$/Java8Programing/Java8Programing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Mukesh Work.iml" filepath="$PROJECT_DIR$/.idea/Mukesh Work.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-kafka-course-main/springboot-kafka-real-world-project/kafka-consumer-database/kafka-consumer-database.iml" filepath="$PROJECT_DIR$/springboot-kafka-course-main/springboot-kafka-real-world-project/kafka-consumer-database/kafka-consumer-database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-kafka-course-main/springboot-kafka-real-world-project/kafka-producer-wikimedia/kafka-producer-wikimedia.iml" filepath="$PROJECT_DIR$/springboot-kafka-course-main/springboot-kafka-real-world-project/kafka-producer-wikimedia/kafka-producer-wikimedia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test-Spring-Boot/src/main/main.iml" filepath="$PROJECT_DIR$/Test-Spring-Boot/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-kafka-course-main/springboot-kafka-tutorial/src/main/main2.iml" filepath="$PROJECT_DIR$/springboot-kafka-course-main/springboot-kafka-tutorial/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-kafka-course-main/springboot-kafka-real-world-project/src/main/main3.iml" filepath="$PROJECT_DIR$/springboot-kafka-course-main/springboot-kafka-real-world-project/src/main/main3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-kafka-course-main/springboot-kafka-tutorial/src/test/test.iml" filepath="$PROJECT_DIR$/springboot-kafka-course-main/springboot-kafka-tutorial/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-kafka-course-main/springboot-kafka-real-world-project/src/test/test2.iml" filepath="$PROJECT_DIR$/springboot-kafka-course-main/springboot-kafka-real-world-project/src/test/test2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test-Spring-Boot/src/test/test3.iml" filepath="$PROJECT_DIR$/Test-Spring-Boot/src/test/test3.iml" />
+    </modules>
+  </component>
+</project>

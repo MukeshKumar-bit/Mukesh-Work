@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="maven-wrapper">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/springboot-kafka-course-main/springboot-kafka-real-world-project/.mvn/wrapper/maven-wrapper.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
